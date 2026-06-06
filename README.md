@@ -53,11 +53,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnanthAkshay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Akshay's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanthAkshay&layout=compact&theme=tokyonight&hide_border=true" width="38%" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=AnanthAkshay&theme=tokyonight&hide_border=true" width="55%" alt="GitHub Streak" />
 </p>
 
@@ -73,5 +68,3 @@
 | [📚 SEM4 Notes](https://github.com/AnanthAkshay/SEM4_NOTES) | Organized academic notes for Semester 4 | HTML |
 
 ---
-
-> *"The best way to predict the future is to build it."*
