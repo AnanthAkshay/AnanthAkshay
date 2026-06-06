@@ -53,15 +53,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnanthAkshay/AnanthAkshay/main/contribution-stats.svg" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnanthAkshay&theme=tokyonight&hide_border=true&card_width=500" width="55%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnanthAkshay&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=4" width="90%" />
+  <img src="https://raw.githubusercontent.com/AnanthAkshay/AnanthAkshay/main/contribution-stats.svg" width="65%" />
 </p>
 ---
 
