@@ -55,6 +55,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnanthAkshay/AnanthAkshay/main/contribution-stats.svg" width="65%" />
 </p>
+
 ---
 
 ## 🚀 Featured Projects
