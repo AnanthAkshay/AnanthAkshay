@@ -53,12 +53,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnanthAkshay&show_icons=true&theme=tokyonight&hide_border=true" alt="Akshay's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanthAkshay&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnanthAkshay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Akshay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanthAkshay&layout=compact&theme=tokyonight&hide_border=true" width="38%" alt="Top Languages" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnanthAkshay&color=brightgreen)](https://github.com/AnanthAkshay)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnanthAkshay&theme=tokyonight&hide_border=true" width="55%" alt="GitHub Streak" />
+</p>
 
 ---
 
