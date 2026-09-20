@@ -58,13 +58,3 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [🏥 AI Medical Assistance](https://github.com/AnanthAkshay/AI_Medical_Assistance) | AI-powered tool to assist with medical queries and health information | TypeScript, React, Supabase |
-| [🎓 CampusToCareer](https://github.com/AnanthAkshay/CampusToCareer) | Platform bridging the gap between college students and career opportunities | Java |
-| [🧠 Contexta](https://github.com/AnanthAkshay/Contexta) | Context-aware application for smarter interactions | TypeScript |
-| [📚 SEM4 Notes](https://github.com/AnanthAkshay/SEM4_NOTES) | Organized academic notes for Semester 4 | HTML |
-
----
